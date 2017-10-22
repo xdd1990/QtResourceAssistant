@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/QtResourceAssistant">
+        <file>Resources/zip.svg</file>
+        <file>Resources/alipay.jpg</file>
+        <file>Resources/wechat.png</file>
+    </qresource>
+</RCC>
